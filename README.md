@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/em82/em82/_apis/build/status/emungai240.ContosoAir?branchName=master)](https://dev.azure.com/em82/em82/_build/latest?definitionId=1&branchName=master)
 
 
 # Microsoft.Github CI Demo
